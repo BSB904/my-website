@@ -15,4 +15,4 @@ on how to use Git and GitHub together.
 
 ## Getting Started
 
-To get started with this project, just "clone" this repository.
+To get started with this project, just "clone" this repository. Forgot comment
